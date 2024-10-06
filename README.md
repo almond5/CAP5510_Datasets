@@ -1,6 +1,4 @@
 ## Logistics
-#### For each .csv file, each abstract can be tokenized via the phrase 'Start_Of_Abstract;'
-
 ## Questions:
 #### 1. What is the best treatment for lung cancer?
 #### 2. What is the best treatment for breast cancer?
