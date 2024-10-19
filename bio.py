@@ -26,11 +26,11 @@ def fetch_abstracts(query, max_records=60):
         
     return abstracts
 
-query = "What is the best treatment for breast cancer?"
+query = "What is the best treatment for pancreatic cancer?"
 abstracts = fetch_abstracts(query, max_records=60)
 
 # Create a dataframe
 df = pd.DataFrame(abstracts, columns=["Abstract"])
 
 # Write the dataframe to a CSV file with UTF-8 encoding
-df.to_csv("Question_2.csv", index=False, encoding="utf-8")
+df.to_csv("Question_9.csv", index=False, encoding="utf-8")
