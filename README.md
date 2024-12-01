@@ -4,7 +4,7 @@
 
 *  **It is recommended to execute these notebooks within a Google Colab environment with a T4 GPU, at minimum.**
 
-*  **Average execution time for a given trial within a Google Colab environment is approximately 10 minutes.**
+*  **Average execution time for a given trial within a Google Colab environment is approximately 5-10 minutes.**
 
 * **PubMedQA dataset (dataset of interest) can be found here: https://huggingface.co/datasets/qiaojin/PubMedQA/viewer/pqa_labeled.**
 
