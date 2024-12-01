@@ -6,7 +6,7 @@
 
 *  **Average execution time for a given trial within a Google Colab environment is approximately 10 minutes.**
 
-* **Dataset of interest can be found here: https://huggingface.co/datasets/qiaojin/PubMedQA/viewer/pqa_labeled.**
+* **PubMedQA dataset (dataset of interest) can be found here: https://huggingface.co/datasets/qiaojin/PubMedQA/viewer/pqa_labeled.**
 
 _________________________________________________________________________________
 **The Colab Notebooks' schema is as follows:**
